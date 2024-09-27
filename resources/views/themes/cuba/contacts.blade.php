@@ -2,5 +2,5 @@
 
 @section('content')
     <h1>Контакты</h1>
-    <p>Контактная информация для темы Cuba</p>
+    <x-contacts text="Контактная информация для темы Cuba" />
 @endsection
